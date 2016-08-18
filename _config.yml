@@ -1,0 +1,28 @@
+name: Andrew's Experiment
+favicon: null
+layout_spectrum: 0.49667468946427107
+typography_spectrum: 0.14216017676517367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.11700282339006662
+  lightness: 0.35323764430359006
+  saturation: 0.6917078858241439
+  rhythmicContrast: 0.3790715306531638
+purpose: []
